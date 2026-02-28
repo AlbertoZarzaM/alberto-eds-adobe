@@ -2,12 +2,6 @@
   "mappings": [
     "/content/alberto-zarza/:/",
     "/content/alberto-zarza/en/:/",
-    "/content/alberto-zarza/es:/es",
-    "/content/alberto-zarza/es/:/es/",
-    "/content/alberto-zarza/fr:/fr",
-    "/content/alberto-zarza/fr/:/fr/",
-    "/content/alberto-zarza/jp:/jp",
-    "/content/alberto-zarza/jp/:/jp/",
     "/content/alberto-zarza/configuration:/.helix/config.json",
     "/content/alberto-zarza/headers:/.helix/headers.json"
   ],
